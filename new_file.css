@@ -1,0 +1,11 @@
+	.ulTag{
+		margin: 0;
+		padding: 0;
+		float: right;
+		color: #B2B2B2;
+	}
+	.ulTag li{
+	    list-style: none;
+		float: left;
+		padding: 32px;
+	}
